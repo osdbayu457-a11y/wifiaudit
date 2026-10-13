@@ -1,0 +1,10 @@
+indihome|admin,user,1234,password,indihome,Admin@123,user123
+firstmedia|admin,admin123,password,firstmedia
+biznet|admin,admin123,telecomadmin,admintelecom,biznet
+myrepublic|admin,admin123,myrepublic
+tplink|admin,admin123,password,tplink,TP-Link
+zte|admin,admin123,zte,zxdsl,user
+huawei|admin,admin123,huawei,telecomadmin,admintelecom
+mikrotik|admin,admin,mikrotik,password
+asus|admin,admin,asus,password
+xiaomi|admin,admin,xiaomi,password
